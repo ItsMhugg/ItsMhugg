@@ -1,5 +1,2 @@
-### **Hi there 👋**
-
-##### I'm a French guy in college and a skript amateur.
-##### I'm currently developing with skript
-
+### hello
+### i dont know why i have this github page but think that can be usefull for posting code (java & skript) and create commits
